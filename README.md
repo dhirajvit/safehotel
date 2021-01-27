@@ -1,2 +1,1 @@
-# safehotel
-# safehotel
+## No tests added to manage time constraint
